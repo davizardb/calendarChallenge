@@ -1,0 +1,4 @@
+#Mon Feb 15 13:10:26 BRT 2021
+base.0=/home/davo/Área de Trabalho/calendar/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
